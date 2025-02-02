@@ -37,6 +37,21 @@ header {
   border: dashed 2px greenyellow;
   top: 230px;
   right: 1%;
-  width: 20%;
+  width: 200px;
   padding: 1% 1% 1% 3%;
+}
+.features {
+  position: relative;
+  border: dashed 2px greenyellow;
+  top: 330px;
+  width: 100%;
+  text-align: center;
+}
+footer {
+  position: relative;
+  border: dashed 2px greenyellow;
+  top: 800px;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
 }
